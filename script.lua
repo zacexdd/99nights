@@ -146,6 +146,7 @@ Submit.MouseButton1Click:Connect(function()
 end)
 
 GetKeyBtn.MouseButton1Click:Connect(function()
-    setclipboard("www.scriptxe.site")
+    setclipboard("https://locked1.com/cl/i/kr7wml")
     Status.Text = "📋 Copied link to clipboard!"
 end)
+
