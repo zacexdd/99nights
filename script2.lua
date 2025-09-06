@@ -148,6 +148,7 @@ Submit.MouseButton1Click:Connect(function()
 end)
 
 GetKeyBtn.MouseButton1Click:Connect(function()
-    setclipboard("https://d1s59iugjlhwm7.cloudfront.net/public/locker.php?it=4544077&key=10b97")
+    setclipboard("https://lockverify.net/cl/i/9vqkkl")
     Status.Text = "📋 Copied link to clipboard!"
 end)
+
