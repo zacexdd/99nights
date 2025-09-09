@@ -186,11 +186,12 @@ Submit.MouseButton1Click:Connect(function()
         ScreenGui:Destroy()
         StartMainScript()
     else
-        Status.Text = "❌ IGet Key First!"
+        Status.Text = "❌ Get Key First!"
     end
 end)
 
 GetKeyBtn.MouseButton1Click:Connect(function()
-    setclipboard("https://d201ffc8k1f04z.cloudfront.net/public/locker.php?it=4544077&key=10b97")
+    setclipboard("https://lockverify.org/cl/i/xpvxjj")
     Status.Text = "📋 Copied link to clipboard!"
 end)
+
